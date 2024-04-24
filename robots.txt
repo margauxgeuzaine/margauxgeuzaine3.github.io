@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://margauxgeuzaine.github.io/sitemap.xml
